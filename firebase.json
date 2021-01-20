@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "angularFotosFirebase",
+      "public": "dist/angularFotosFirebase",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}

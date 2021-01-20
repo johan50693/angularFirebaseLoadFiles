@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularfotos-72af7": {
+      "hosting": {
+        "angularFotosFirebase": [
+          "angularfotos-72af7"
+        ]
+      }
+    }
+  }
+}
